@@ -90,7 +90,9 @@ sina ken pali e lipu lili tan ona kepeken nasin ni:
 
 ## pona tawa
 
-pona tawa: jan Kalama, jan Kagerou, jan Pumon, jan Seku, jan Isa, jan Salan, jan Na, tawa jan Elijo, jan SeloTuTu, jan suli Tomen, jan Owi, jan Sa, jan Ante. pona suli tawa jan Pako.
+pona tawa: jan Kalama, jan Kagerou, jan Pumon, jan Seku, jan Isa, jan Salan, jan Na, tawa jan Elijo, jan SeloTuTu, jan suli Tomen, jan Owi, jan Sa, jan Ante. 
+
+pona suli tawa jan Pako.
 
 ## jan Inkepa o, lipu sina li jo e pakala!
 
