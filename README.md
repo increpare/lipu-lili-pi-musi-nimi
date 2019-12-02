@@ -44,6 +44,9 @@ mi pali e lipu lili pi musi nimi. ni li sitelen. sina ken sitelen e sitelen ni.
 ![sitelen](sitelen_lili_pi_lipu_lili/10_poki_li_wile_e_nimi_3.png) 
 
 
+## ni li pona!
+
+lipu ni li pona tawa sina?  pona a - ni li pona tawa mi.  sina ken pana e mani tawa mi kepeken [lipu paypal](https://www.paypal.me/increparegames) anu [lipu github](https://github.com/sponsors/increpare).
 
 ## mi pali e lipu ni kepeken nasin seme?
 sina ken pali e lipu lili tan ona kepeken nasin ni: 
