@@ -2,6 +2,10 @@
 
 mi pali e lipu lili pi musi nimi. ni li sitelen. sina ken sitelen e sitelen ni. 
 
+## lipu seme?
+
+- [alasa nimi 1](1_alasa_nimi_1.png)
+
 ## mi pali e lipu ni kepeken nasin seme?
 sina ken pali e lipu lili tan ona kepeken nasin ni: 
 
