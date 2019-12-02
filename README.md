@@ -87,3 +87,7 @@ sina ken pali e lipu lili tan ona kepeken nasin ni:
 - ale li pini! pona a!
 
 ![sitelen pi pali nanpa wan](sitelen_pi_nasin_pali_lipu_websafe/7.jpg "pali nanpa wan")
+
+## pona tawa
+
+pona tawa jan Kalama. pona tawa tawa jan Kagerou. pona tawa tawa jan Pumon. pona tawa tawa jan Seku. pona tawa tawa jan Isa. pona tawa tawa jan Salan. pona tawa tawa jan Na. pona tawa tawa tawa jan Elijo. pona tawa tawa jan SeloTuTu. pona tawa tawa jan suli Toman. pona tawa jan Owi. pona tawa jan Sa.
