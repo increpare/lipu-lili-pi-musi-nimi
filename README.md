@@ -2,6 +2,11 @@
 
 mi pali e lipu lili pi musi nimi. ni li sitelen. sina ken sitelen e sitelen ni. 
 
+![sitelen pi lipu ale open](sitelen_pi_nasin_pali_lipu_websafe/lipu_pini.jpg) 
+
+![sitelen pi lipu ale pini](sitelen_pi_nasin_pali_lipu_websafe/lipu_open.jpg) 
+
+
 ## lipu seme?
 
 - [alasa nimi (#1)](sitelen_pi_lipu_lili/1_alasa_nimi_1.png?raw=true)  
