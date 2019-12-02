@@ -76,7 +76,7 @@ sina ken pali e lipu lili tan ona kepeken nasin ni:
 
 ![sitelen pi pali nanpa wan](sitelen_pi_nasin_pali_lipu_websafe/5.jpg "pali nanpa wan")
 
-- ale li pona tawa lukin sina, la sina pini!  taso, lipu li ike tawa lukin sina, sina ken pona e ni kepeken ilo tu:
+- ale li pona tawa lukin sina, la sina pini!  taso, lipu li ike tawa lukin sina, la sina ken pona e ni kepeken ilo tu:
 
 ![sitelen pi pali nanpa wan](sitelen_pi_nasin_pali_lipu_websafe/6a.jpg "pali nanpa wan")
 
