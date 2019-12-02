@@ -90,4 +90,8 @@ sina ken pali e lipu lili tan ona kepeken nasin ni:
 
 ## pona tawa
 
-pona tawa jan Kalama. pona tawa tawa jan Kagerou. pona tawa tawa jan Pumon. pona tawa tawa jan Seku. pona tawa tawa jan Isa. pona tawa tawa jan Salan. pona tawa tawa jan Na. pona tawa tawa tawa jan Elijo. pona tawa tawa jan SeloTuTu. pona tawa tawa jan suli Toman. pona tawa jan Owi. pona tawa jan Sa.
+pona tawa: jan Kalama, tawa jan Kagerou, tawa jan Pumon, tawa jan Seku, tawa jan Isa, tawa jan Salan, tawa jan Na, tawa tawa jan Elijo, tawa jan SeloTuTu, tawa jan suli Toman, jan Owi, jan Sa.
+
+## jan Inkepa o, lipu sina li jo e pakala!
+
+pakala li ike tawa mi.  o toki e ni tawa mi kepeken [lipu ni](https://github.com/increpare/lipu-lili-pi-musi-nimi/issues)
