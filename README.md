@@ -94,6 +94,6 @@ pona tawa: jan Kalama, jan Kagerou, jan Pumon, jan Seku, jan Isa, jan Salan, jan
 
 pona suli tawa jan Pako.
 
-## jan Inkepa o, lipu sina li jo e pakala!
+## jan Inkepa o, pakala li lon lipu sina!
 
 pakala li ike tawa mi.  o toki e ni tawa mi kepeken [lipu ni](https://github.com/increpare/lipu-lili-pi-musi-nimi/issues).
